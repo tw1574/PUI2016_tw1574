@@ -1,6 +1,6 @@
 ## PUI2016_tw1574
 ## HW5
-For this homework (and class) I was out of town, so could not work with anyone in-person. I referenced the work of Dana Karwas (dlk253@nyu.edu), Bailey Griswold (bg1672@nyu.edu), Christian O Rosado (cor215@nyu.edu), and Jonathan A Toy (jt2276@nyu.edu) for Assignments 1, 2, & 3. 
+For this homework (and class) I was out of town, so could not work with anyone in-person. I referenced the work of Dana Karwas (dlk253@nyu.edu), Bailey Griswold (bg1672@nyu.edu), Christian O Rosado (cor215@nyu.edu), and Jonathan A Toy (jt2276@nyu.edu) for Assignments 1 & 2
 
 
 ### Assignment 1: 
