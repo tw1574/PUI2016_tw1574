@@ -30,9 +30,6 @@ Display the reducted dataframe. This table must be rendered.
 Plot your data distributions.
 ```
 
-I started, but wasn't able to finish this assignment
-
-
 ### Assignment 3: Finish z-test lab and turn it in as a notebook
 
 ```
