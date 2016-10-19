@@ -23,3 +23,5 @@ You should have made an authorea account last week. Submit by including the link
 
 Work with your group. All group members should be authors of the authorea writeup. Incorporate your classmate review suggestions.
 ```
+
+Our paper can be found here - https://www.authorea.com/users/105835/articles/133675/_show_article
