@@ -5,7 +5,7 @@
 <img src="https://github.com/sbg389/PUI2016_sbg389/blob/master/HW8_sbg389/HW7_ttw1574_plot.png"
 alt=" Plot for HW7: tw1574" width="850">
 
-##### Plot representing the Morning Rush Hour Commute time in minutes by age and hours.
+#### Plot representing the Morning Rush Hour Commute time in minutes by age and hours.
 
 ## Review
 
