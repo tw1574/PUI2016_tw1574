@@ -11,9 +11,13 @@ alt=" Plot for HW7: tw1574" width="850">
 
 ### Clarity
 The plot is easy to read; it doesn’t appear ambiguous, misleading or present distractions.
+
 It conveys a good amount of information (Three different dimensions) that is easy and fast to locate.
+
 It does not make excessive use of graphical effects (The surface size and gradient is pleasant and contributes to the fast location of the information)
+
 A possible improvement might be to clarify the period (is it number of minutes of commute per day? Per Week?)
+
 Another minor suggestion will be to use different font sizes for the title, axis labels, etc. in order to bring more attention to the most relevant elements (such as title).
  
 ### Aesthetic
