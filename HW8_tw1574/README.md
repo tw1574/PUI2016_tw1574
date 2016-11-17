@@ -1,12 +1,11 @@
 ## PUI2016_tw1574
-## HW7
-For this homework, I worked alone to complete the plot of existing data
+## HW8
+For this homework, I worked with Bailey Griswold <bg1672@nyu.edu>, Benjamin Joseph Alpert <bja282@nyu.edu>, Sofiya Elyukin <se1296@nyu.edu>, Marc Edward Toneatto <met414@nyu.edu>, Jonathan D Geis <jdg545@nyu.edu>, Scott Smith <ss4977@nyu.edu>, POONEH FAMILI <pf910@nyu.edu>, Ozgur Akkas <Oa691@nyu.edu> to complete the lab assignment
 
 
-### Assignment 1: Phase 1 - Any plot from previous data
+### Assignment 1: Complete the lab
 
 ```
-Just one plot this week! Choose to plot anything you wish, from the data we used so far. Please make it a good plot.
-Put though into the esthetic of the plot, how clearly the content is communicated, avoid clutter, avoid misleading elements, mind your choice of colors according ly to what was discussed in class.
+Completed the lab to the best of my ability and availability
 ```
 
