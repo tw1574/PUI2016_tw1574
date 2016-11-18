@@ -9,3 +9,4 @@ For this homework, I worked with Bailey Griswold <bg1672@nyu.edu>, Benjamin Jose
 Completed the lab to the best of my ability and availability
 ```
 
+### Assignment 2: Plot review for esg336 & lag552
