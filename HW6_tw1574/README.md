@@ -25,3 +25,7 @@ Work with your group. All group members should be authors of the authorea writeu
 ```
 
 Our paper can be found here - https://www.authorea.com/users/105835/articles/133675/_show_article
+
+# FBB feedback
+
+I like that you all worked collaboratively in the authorea environments and left comments for each other. But the analysis is WRONG! your Null is consistent with the proportions in the data! See the cmments in the authorea paper and the updated notebook on xy1002 github. If this is not clear please come talk to me!
