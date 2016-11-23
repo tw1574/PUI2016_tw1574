@@ -1,6 +1,6 @@
 ## PUI2016_tw1574
 ## HW9
-For this homework, I worked alone with Bailey Griswold <bg1672@nyu.edu>, Benjamin Joseph Alpert <bja282@nyu.edu>, Sofiya Elyukin <se1296@nyu.edu>, Marc Edward Toneatto <met414@nyu.edu>, Jonathan D Geis <jdg545@nyu.edu>, Scott Smith <ss4977@nyu.edu>, POONEH FAMILI <pf910@nyu.edu>, Ozgur Akkas <Oa691@nyu.edu> to complete the assignment as far as I could complete
+For this homework, I worked with Bailey Griswold <bg1672@nyu.edu>, Benjamin Joseph Alpert <bja282@nyu.edu>, Sofiya Elyukin <se1296@nyu.edu>, Marc Edward Toneatto <met414@nyu.edu>, Jonathan D Geis <jdg545@nyu.edu>, Scott Smith <ss4977@nyu.edu>, POONEH FAMILI <pf910@nyu.edu>, Ozgur Akkas <Oa691@nyu.edu> to complete the assignment as far as I could complete
 
 
 ### Task 1:
