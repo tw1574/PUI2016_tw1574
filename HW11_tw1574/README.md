@@ -7,4 +7,5 @@ CUSP identification through Geopandas
 
 ### Assignment 2:
 Clustering & Dendograms
-For much of this exercise, I am leveraging Scott Smith's work, though the above group did collaborate on many of the pieces in the workbook
+
+- For much of this exercise, I am leveraging Scott Smith's work, though the above group did collaborate on many of the pieces in the workbook
