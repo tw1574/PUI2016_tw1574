@@ -6,4 +6,5 @@ For this homework, I worked with Kelsey D Reid <kelsey.reid@nyu.edu>, William Xi
 CUSP identification through Geopandas
 
 ### Assignment 2:
-K-Means Clustering
+Clustering & Dendograms
+For much of this exercise, I am leveraging Scott Smith's work, though the above group did collaborate on many of the pieces in the workbook
